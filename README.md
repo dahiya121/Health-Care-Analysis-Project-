@@ -105,8 +105,8 @@ This project helps identify real challenges in workplace mental health. It shows
 
 **Praveen Dhaiya**  
 Aspiring Data Analyst | Passionate about mental health & data storytelling  
-📧 [Email me](mailto:your.email@example.com)  
-🔗 [LinkedIn](https://www.linkedin.com/) *(optional)*
+📧 [Email me](dhaiyapraveen4@gmail.com)  
+🔗 [LinkedIn](www.linkedin.com/in/praveen-dahiya01) 
 
 ---
 
